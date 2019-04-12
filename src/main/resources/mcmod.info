@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TNT",
+  "name": "TNT",
+  "description": "The Mod by TNTChina.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/TNTChinaAAA",
+  "updateUrl": "https://github.com/TNTChinaAAA",
+  "authorList": ["TNTChina"],
+  "credits": "Notch, Cpw, etc.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
